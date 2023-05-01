@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Бизнес-калькулятор</string>
+    <string name="leads">Потенциальные клиенты (лиды)</string>
+    <string name="sale">Повторные продажи</string>
+    <string name="marzha">Маржа</string>
+    <string name="raschetpribil">Расчитать прибыль</string>
+    <string name="chek">Средний чек</string>
+    <string name="ratio">Коэффициент конверсии в покупку</string>
+    <string name="delete">Сбросить данные</string>
+    <string name="raschetclients">Расчитать количество клиентов</string>
+    <string name="raschetv">Расчитать объем продаж</string>
+    <string name="vz">Введите значение</string>
+    <string name="vcz">Введите целочисленное значение</string>
+    <string name="vpz">Введите процентное значение</string>
+    <string name="income">Средний доход с клиента</string>
+    <string name="clients">Количество клиентов</string>
+    <string name="exit">Выход</string>
+    <string name="back">Назад</string>
+</resources>
